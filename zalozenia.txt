@@ -1,0 +1,27 @@
+1. 230V
+    - automatyczne przełączanie na zasilanie ze słupka z czasem zwłoki
+    - załaczanie ładowarek do aku pokładowych i rozruchowego
+    - lodówka tylko na 230V (przetwornica, słupek)
+    - dedykowane gniazdo 230V działajace tylko ze słupka
+        * ewentualnie jeszcze jedno działające ze slupka ale nie z agregatu
+    - przetwornica z 12V
+        * załączanie przetwornicy przez lodówkę
+
+
+2. 12V
+    - ładowanie solarne
+    - ladowanie z sieci 230V
+    - ładowanie z alternatora
+        - do rozważenia czy
+            * świstakownica
+            * ładowarka dc-dc
+    - przetwornica na 230V
+    - monitorowanie poziomu napięcia na aku
+        * alarm przy niskim poziomie naładowania
+        * wyłączenie ponizej okreslonego napięcia
+        * po odłączeniu obserwacja do jakiego napięcia wróci akumulator
+    
+3. Sterowanie ogrzewaniem
+    - termostat oparty na DS18b20
+    - załączanie analogowego webasto
+    
